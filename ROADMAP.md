@@ -9,7 +9,7 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 - ✅ **Simple Tutorial System** - The Pilot's Handbook guide (F1 or starting new game)
 - ✅ **Space Station System** with trade markets, ship upgrades, dynamic mission generations
 - ✅ **Station UI Scalability** - Large inventory support with scrolling and filtering
-- ✅ **Advanced HUD** - Dynamic HUD with rotating minimap, radar + multiple zoom levels, star system coordinates/info, target info and ship status indicators
+- ✅ **Advanced HUD** - Dynamic HUD with rotating minimap, radar + multiple zoom levels, chat/notification feed, star system coordinates/info, target info and ship status indicators
 - ✅ **UI & Inventory Systems** - Refined inventory UI with Commander Status (Ship status, active missions, faction standings, cargo & item prices, active ship upgrades)
 - ✅ **Free Look Camera System** - Independent camera control in first and third-person views to help find objects or enemey ships
 - ✅ **Camera Systems** - Dual first-person cockpit and third-person "jet fighter" cameras
