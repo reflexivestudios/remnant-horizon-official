@@ -7,6 +7,7 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 - ✅ **Main Menu** - Full menu with starting new game, loading save and game settings.
 - ✅ **Pause Menu** - Full pause menu with saving, loading, settings, exit to main menu, etc.
 - ✅ **Simple Tutorial System** - The Pilot's Handbook guide (F1 or starting new game)
+- ✅ **Multiple Save/Load Slot System** - 3 Save/Load slots with quick save funtionality saving to it's own slot
 - ✅ **Space Station System** with trade markets, ship upgrades, dynamic mission generations
 - ✅ **Station UI Scalability** - Large inventory support with scrolling and filtering
 - ✅ **Advanced HUD** - Dynamic HUD with rotating minimap, radar + multiple zoom levels, chat/notification feed, star system coordinates/info, target info and ship status indicators
@@ -37,7 +38,6 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 ### What's In Progress (WIP) 🔄
 - (WIP) **Event-Driven Communication System** using prefixed DOM events
 - (WIP) **Player Guide (Pilot's Handbook)** - Implemented base guide, but will keep expanding as complexities grow
-- (WIP) **Save System** . Currently only 1 save and load slot. Working on making more with 3 localStorage slots and auto-save functionality
 - (WIP) **Procedural Universe Generation** with textured stars and noise-based planet continents
 - (WIP) **Core Systems Loop** with mission tracking, economy drift
 - (WIP) **Refined Ship-to-Ship Combat** - Implement inertia-based physics for visceral, skill-based combat
@@ -61,7 +61,6 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 ### What's Not Started Yet ❌
 - ❌ **Vast Procedural Universe** - Fully generated star systems with unique planets. Currently have 4 star systems for generation, economy and mission testing.
 - ❌ **Environmental Hazards & Fuel Management** - Radiation zones, temperature extremes, nebulae, gravitational anomalies
-- ❌ **Multiple Slot Save System** - Expanded save functionality with comprehensive persistence
 - ❌ **Dynamic & Living Star Systems** - Active NPC ships, trade convoys, pirate fleets
 - ❌ **Interactive Walkable Space Stations** - Vibrant hubs with active NPCs and services. Interior exploration and vendor interaction.
 - ❌ **Enemy Spawning Logic** - Logical spawning based on faction control
