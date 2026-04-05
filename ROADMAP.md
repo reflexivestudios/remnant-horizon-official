@@ -31,7 +31,6 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 - ✅ **NPC Ship Shield & Hull Status** - Dynmaic shield and hull health bars near enemy ships to see their ship healthy status in combat
 - ✅ **NPC AI System** with planetary avoidance and physics that closely match the player in ship-top-ship combat
 - ✅ **Ship Wreckage Salvage** salvage/tractor beam logic to gather cargo from destroyed enemy ships
-- ✅ **Dynamic HUD** with ship info, coordinates, 2D radar and proximity prompts
 - ✅ **Player Ship Entity** with integrated thruster physics, weapon systems, and damage logic
 - ✅ **Space ↔ Planet Surface Transitions** with dedicated surface lighting and gravity
 - ✅ **Atmospheric entrance & flight** - enter a planet instance and can fly around in the atmposphere.
